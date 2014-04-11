@@ -1,0 +1,23 @@
+{
+  "name": "dister",
+  "version": "0.2.0",
+  "description": "publish tool",
+  "main": "index.js",
+
+  "bin" : {
+    "dister" : "bin/dister"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+    "commander": "2.1.0"
+  },
+  "keywords": [
+    "fis",
+    "dister"
+  ],
+  "author": "fansekey",
+  "license": "MIT"
+}
